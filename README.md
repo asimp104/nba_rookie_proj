@@ -1,4 +1,5 @@
-# nba_rookie_proj
+# NBA Rookie of the Year Predictor: Project Overview
+-created
 
 ## Data Resources
 https://www.nba.com/stats/draft/history/
