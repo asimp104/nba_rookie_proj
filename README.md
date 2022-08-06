@@ -57,6 +57,6 @@ After scraping data the new rookies didn't have some of the same advanced stats 
 I looked at data distributions and correlations between variables the ROTY statistic. Here are some highlights from my exploration.
 ![](position.png)
 
-![](Heat Map.png)
+![](Heatmap.png)
 
-![](Correlation with ROTY.png)
+![](Correlation.png)
