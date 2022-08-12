@@ -7,7 +7,7 @@
 
 ## Code Requirements
 **Python Version:** 3.7
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle <\br>
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle \\
 **For Web Framework Requirements:** <pre><code>pip install -r requirements.txt</code></pre>
 
 ## Data Resources
